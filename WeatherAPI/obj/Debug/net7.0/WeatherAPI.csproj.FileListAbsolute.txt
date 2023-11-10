@@ -1,0 +1,116 @@
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.AssemblyReference.cache
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.AssemblyInfoInputs.cache
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.AssemblyInfo.cs
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.CoreCompileInputs.cache
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\WeatherAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\WeatherAPI\bin\Debug\net7.0\appsettings.json
+D:\Projects\WeatherAPI\bin\Debug\net7.0\WeatherAPI.exe
+D:\Projects\WeatherAPI\bin\Debug\net7.0\WeatherAPI.deps.json
+D:\Projects\WeatherAPI\bin\Debug\net7.0\WeatherAPI.runtimeconfig.json
+D:\Projects\WeatherAPI\bin\Debug\net7.0\WeatherAPI.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\WeatherAPI.pdb
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Projects\WeatherAPI\obj\Debug\net7.0\staticwebassets\msbuild.WeatherAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\WeatherAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WeatherAPI.props
+D:\Projects\WeatherAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WeatherAPI.props
+D:\Projects\WeatherAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WeatherAPI.props
+D:\Projects\WeatherAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\WeatherAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\WeatherAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\WeatherAPI\obj\Debug\net7.0\scopedcss\bundle\WeatherAPI.styles.css
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.CopyComplete
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.dll
+D:\Projects\WeatherAPI\obj\Debug\net7.0\refint\WeatherAPI.dll
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.pdb
+D:\Projects\WeatherAPI\obj\Debug\net7.0\WeatherAPI.genruntimeconfig.cache
+D:\Projects\WeatherAPI\obj\Debug\net7.0\ref\WeatherAPI.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\EntityFramework.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\appsettings.json
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\WeatherAPI.exe
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\WeatherAPI.deps.json
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\WeatherAPI.runtimeconfig.json
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\WeatherAPI.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\WeatherAPI.pdb
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\EntityFramework.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Teste técnico\WeatherAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.AssemblyReference.cache
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.AssemblyInfoInputs.cache
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.AssemblyInfo.cs
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\staticwebassets\msbuild.WeatherAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WeatherAPI.props
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WeatherAPI.props
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WeatherAPI.props
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\scopedcss\bundle\WeatherAPI.styles.css
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.CopyComplete
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.dll
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\refint\WeatherAPI.dll
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.pdb
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\WeatherAPI.genruntimeconfig.cache
+D:\Projects\Teste técnico\WeatherAPI\obj\Debug\net7.0\ref\WeatherAPI.dll
